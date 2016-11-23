@@ -117,7 +117,7 @@ tôt dans la saison. Reeborg avait planté des graines de carottes;
 certaines avaient poussé correctement alors que d'autres graines
 n'avaient pas germées; d'autres encore avaient été semées trop
 rapprochées les unes des autres. Reeborg doit enlever les carottes en
-excès, resemer aux endroits où les graines n'ont pas germé de façon à
+excès et resemer aux endroits où les graines n'ont pas germé de façon à
 avoir une carotte par endroit.
 
 **Vous n'avez pas à écrire un programme à ce moment-ci.**
@@ -182,7 +182,7 @@ Résumé
 Écrire des programmes où toutes les instructions permettant à Reeborg d'accomplir
 une certaine tâche doivent être écrite une à la fois peut être très fastidieux.
 Cependant, ceci vous a permis de vous mettre dans la peau d'un robot et vous
-aidera à utiliser Javascript pour écrire des programmes beaucoup plus court
+aidera à utiliser Python pour écrire des programmes beaucoup plus court
 permettant d'accomplir les diverses tâches confiées à Reeborg.
 
 .. admonition:: Pour les enseignants
