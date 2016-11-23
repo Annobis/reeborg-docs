@@ -1,15 +1,14 @@
 Introduction to the challenges
 ==============================
 
+Hello agent programmer.
 
-In this lesson, I introduce briefly most of the challenges (tasks) that
-Reeborg has to accomplish and which you can select from the menu
-above Reeborg's world. What you
-have to do, is to write programs that accomplish what is being described
-as being Reeborg's task. **You do not have to do all the challenges.**
+Your mission, should you choose to accept it, is to read the following
+challenges end to write programs fulfilling the described tasks.
+
+**You do not have to do all the challenges just yet.**
 The idea at this point is to get familiar with the way that Reeborg
-moves and to identify patterns that reoccur when finding a given
-solution.
+moves and to identify patterns that reoccur in the different solutions.
 
 While you write your programs, each of which will consist of a specific
 of series of instructions, you have the advantage of seeing the entire
@@ -37,8 +36,6 @@ world they are designed. To do so you can use comments::
 
 Finding the center
 -------------------
-
-This is the first of our series of mini challenges.
 
 Have a look at the worlds **Center 1** to **Center 3**.
 In each case, you will have to write a
@@ -98,18 +95,19 @@ Once you are done with those races, you might want to try the unevenly
 spaced hurdles of world **Hurdles 3** or the highly irregular ones of world
 **Hurdles 4**.
 
+.. |hurdles| image:: ../../../src/images/hurdles.png
 
 Harvest time
 ------------
 
-Reeborg has been gardening and it is time to harvest. Select world
+Reeborg visits his aunt's farm, and it is time to harvest. Select world
 **Harvest 1** or **Harvest 2** and have Reeborg collect all the
 carrots.
 
 Alternatively, select world **Harvest 3** which occurred earlier in the
 season. Reeborg had been planting some carrots; some sprouted fine,
 others did not, while at some location 2 or more seeds sprouted. Reeborg
-must remove the excess plants and reseed at locations where there are
+must remove the excess plants and reseed at locations where carrots are
 missing ones so that each plant site has only one carrot.
 
 **You do not have to write a program this time.**  Just think about how you
@@ -149,7 +147,7 @@ The wind blew really hard last night. There are fallen leaves everywhere outside
 Reeborg's house. His parents asked him to go and clean up the path
 leading to the curb, **Storm 1**, as well as the driveway: **Storm 2**.
 
-Reeborg should collect all the leaves, and put them in the compost bin,
+Reeborg should collect all the leaves, put them in the compost bin,
 and close the lid, using ``build_wall()``.
 
 More yard work!
@@ -171,8 +169,6 @@ tedious as you have to write every single instruction that Reeborg must
 follow. However, they are good exercises to make you think like a robot.
 As you learn more about programming using Python, you will find ways
 to write much shorter programs to solve these challenges.
-
-.. |hurdles| image:: ../../../src/images/hurdles.png
 
 .. admonition:: For educators
 
